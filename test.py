@@ -1,3 +1,1 @@
-with open("test") as f:
-    for line in f:
-        print(line,end="")
+print("{} is fucking {}".format(1,0))
